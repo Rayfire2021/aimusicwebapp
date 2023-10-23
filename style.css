@@ -5,3 +5,9 @@ body {
 .note {
     box-shadow: red;
 }
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;  
+}
